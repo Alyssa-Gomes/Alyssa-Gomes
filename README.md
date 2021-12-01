@@ -1,4 +1,4 @@
-### Hey! I'm Alyssa
+### Hey! I'm Alyssa.
 
 <!--
 **Alyssa-Gomes/Alyssa-Gomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
