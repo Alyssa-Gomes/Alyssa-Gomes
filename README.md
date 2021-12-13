@@ -4,6 +4,8 @@
 </p>
 <p><img align="center" src="https://github.com/Alyssa-Gomes/Alyssa-Gomes/blob/main/teal.gif" width="1000" height="15" /></p>
 
+<p><img align="center" src="https://github.com/Alyssa-Gomes/Alyssa-Gomes/blob/main/github%20banner.gif" width="1000" height="15" /></p>
+
 <!--
 ### Hey! I'm Alyssa.
 **Alyssa-Gomes/Alyssa-Gomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
