@@ -10,8 +10,8 @@ I'm a mechanical engineer interested in computational optimization and translati
 ### Skills
 
 <p align="left">
-<a href="https://www.ptc.com/en/products/creo/parametric" target="_blank" rel=<noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/PTC_Creo_logo.svg" width="36" height="36" alt="Creo Parametric" /></a>
-<a href="https://www.autodesk.com/products/fusion-360/overview?term=1-YEAR&tab=subscription" target="_blank" rel=<noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Fusion360_Logo.png" width="36" height="36" alt="Fusion 360" /></a>
+<a href="https://www.ptc.com/en/products/creo/parametric" target="_blank" rel=<noreferrer"><img src="https://github.com/Alyssa-Gomes/Alyssa-Gomes/blob/main/creo-parametric.png" width="36" height="36" alt="Creo Parametric" /></a>
+<a href="https://www.autodesk.com/products/fusion-360/overview?term=1-YEAR&tab=subscription" target="_blank" rel=<noreferrer"><img src="https://github.com/Alyssa-Gomes/Alyssa-Gomes/blob/main/fusion-360-logo.png" width="36" height="36" alt="Fusion 360" /></a>
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel=<noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="36" height="36" alt="MATLAB" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
