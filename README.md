@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a mechanical engineer interested in computational optimization and translational research.
 
 * 🌍  I'm based in India
-* 🧠  I'm learning Python and Julia
+* 🧠  I'm learning Python and C++
 * ⚡  Marvel and Formula 1 fan
 
 ### Skills
