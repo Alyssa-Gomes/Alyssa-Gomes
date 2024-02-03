@@ -2,10 +2,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================
 
 I'm a mechanical engineer interested in computational optimization and translational research.
-
+<!--
 * 🌍  I'm from India but currently based in the UK
 * 🧠  I'm learning C++
 * ⚡  Marvel and Formula 1 fan
+-->
 
 ### Skills
 
